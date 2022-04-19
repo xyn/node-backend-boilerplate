@@ -1,0 +1,11 @@
+To run, 
+- copy `.env.example` to `.env` 
+- create the folder `photos`
+- modify `SECRET_TOKEN`
+- modify `NODE_ENV`
+- modify `AWS_IAM_USER_KEY`
+- modify `AWS_IAM_USER_SECRET`
+- modify `AWS_BUCKET_NAME`
+- modify `MONGO_DB_PATH`
+- run `npm i`
+- run `node index.js`
